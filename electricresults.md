@@ -3,15 +3,15 @@ Write the results of your experiments below when modifying the 4 inputs to see t
 
 ## All true
 What happended when all of your values started as true?
-1.  answer
-2.  answer
-3.  answer
-4.  answer
-5.  answer
+1.  answer false
+2.  answer false 
+3.  answer false
+4.  answer false 
+5.  answer true 
 
 ## All false
 What happended when all of your values started as false?
-1.  answer
+1.  answer 
 2.  answer
 3.  answer
 4.  answer
